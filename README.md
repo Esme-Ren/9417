@@ -120,17 +120,16 @@ model = XGBClassifier(
 
 ### Experimental configuration
 - **use_smote** – Do you want to use SMOTE oversampling (True/False).
-- **use_class_weight- **Whether to enable category weighting (True/False).
+- **use_class_weight** - Whether to enable category weighting (True/False).
 - **test_size** – Validation set ratio (default 0.2).
-
+- 
 ---
-
 
 ## output
 - **After the model training is completed, the terminal will output the following indicators** –  
-- **Validation set** - Weighted Logarithmic Loss, Accuracy, Weighted F1, Macro Average F1.
+**Validation set** Weighted Logarithmic Loss, Accuracy, Weighted F1, Macro Average F1.
 
-- **Test Set 2** - Weighted Logarithmic Loss, Accuracy, Weighted F1, Macro Average F1.
+**Test Set 2** Weighted Logarithmic Loss, Accuracy, Weighted F1, Macro Average F1.
 - **The distribution offset diagnosis results will generate label distribution maps and KS test statistical results.** –
 
 - **Prediction files** - preds_1.npy, preds_2.npy
