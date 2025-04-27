@@ -14,18 +14,18 @@ This project implements **three** models for classification, each of which used 
 ## 📁 Project Structure
 ```text
 project/
-├── Group Project - Data-20250401/    # 存放数据文件
+├── Group Project - Data-20250401/    # Store data files
 │   ├── X_train.csv
 │   ├── y_train.csv
 │   ├── X_test_1.csv
 │   ├── X_test_2.csv
 │   └── y_test_2_reduced.csv
 │
-├── weighted_log_loss.py   # Weighted logarithmic loss calculation
+├── Weighted_log_loss.py   # Weighted logarithmic loss calculation
 ├── load_data.py           # Data loading and preprocessing
 ├── diagnose_shift.py      # Distribution offset diagnosis
 ├── show_result.py         # Result display and evaluation
-├── xgboost.py             # XGBoost Model Training and Experiment
+├── Xgboost.py             # XGBoost Model Training and Experiment
 ├── random_forest.py       # Random Forest Model Training and Experiment
 ├── logistic_regression.py # Logic Regressoin Model Training and Experiment
 ├── preds_1.npy            # predictions for test set 1 (1000 unlabelled points)
