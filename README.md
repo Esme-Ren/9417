@@ -1,5 +1,4 @@
-# COMP9417 Group Project – Machine Learning for
-Customer Feedback Classification
+# COMP9417 Group Project – Machine Learning for Customer Feedback Classification
 
 This project implements **three** models for classification, each of which used four different combinations of two imbalanced treatments to present the results:
 
