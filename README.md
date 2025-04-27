@@ -89,12 +89,16 @@ python src/diagnose_shift.py
 ---
 
 ## version
-> Frameworks 
 > • **numpy**: 1.26.4
+
 > • **pandas**: 2.2.2
+
 > • **scikit-learn**: 1.5.1
+
 > • **xgboost**: 3.0.0
+
 > • **imbalanced-learn**: 0.12.3
+
 > • **tensorflow**: 2.19.0
 
 ---
