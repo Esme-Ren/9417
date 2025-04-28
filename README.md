@@ -84,7 +84,7 @@ python src/diagnose_shift.py
 
 ## 👥 Authors
 
-*Qihui Ren & Group 12345: Jingyi Zhang,  Xu Han, Jingyun Li, Yanyan Zhu* · COMP9417 T1 2025
+*Qihui Ren & Group Name 9417886: Jingyi Zhang,  Xu Han, Jingyun Li, Yanyan Zhu* · COMP9417 T1 2025
 
 ---
 
